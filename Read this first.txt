@@ -1,0 +1,19 @@
+Dear User / Developer,
+
+Thank you for downloading my software from The Planet Source Code website. I hope my software to be
+helpful to you to get some ideas or to develop it to another software.
+
+This code is used to copy all the USB flash disk to a folder on your hard drive which is stated the date and the time of coping process at it's name. It's do the same with all flash disk connected with PC. I used some ideas from codes on planet source code. Many thanks to thos people who I take the code from them.
+
+Please if you like it ... vote it !
+
+If you have any suggestion about my software or about the techniques which I use it in my code please send
+it to my email: ahmadandnader@hotmail.com.
+
+Thank you 
+
+Regards,
+
+Ahmed Eissa
+
+28/02/2007
